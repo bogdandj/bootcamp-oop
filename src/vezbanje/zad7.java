@@ -20,9 +20,6 @@ public class zad7 {
 			x += interval;
 			minut = x / 60;
 			sekund = x - 60*minut;
-			if (sekund < 10) {
-				sekund = "0" + sekund;
-			}
 			System.out.println(minut + ":" + sekund);
 		}
 	}

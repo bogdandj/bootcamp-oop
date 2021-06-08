@@ -63,6 +63,5 @@ public class Makao {
 	}*/
 	
 	public void playMakao(String number, String symbol) {
-		this.
 	}
 }
